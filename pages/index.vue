@@ -1,6 +1,9 @@
 <template>
   <main>
-    <h1>Hello world !</h1>
-    <NuxtLink to="/about">Home Page</NuxtLink>
+    <h1>Portfolio</h1>
   </main>
 </template>
+
+<script>
+export default {};
+</script>
