@@ -26,6 +26,11 @@ export default {
    */
   modules: [],
 
+  buildModules: ["@nuxtjs/tailwindcss"],
+  tailwindcss: {
+    jit: true,
+    exposeConfig: true
+  },
   /*
    ** Global CSS
    ** Doc: https://nuxtjs.org/docs/2.x/configuration-glossary/configuration-css
