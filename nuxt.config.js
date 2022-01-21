@@ -26,7 +26,7 @@ export default {
    */
   modules: [],
 
-  buildModules: ["@nuxtjs/tailwindcss"],
+  buildModules: ["@nuxtjs/tailwindcss", "@nuxtjs/vuetify"],
   tailwindcss: {
     jit: true,
     exposeConfig: true
