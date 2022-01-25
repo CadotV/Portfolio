@@ -3,8 +3,7 @@
     <v-row justify="center">
       <v-col cols="6">
         <main>
-          <h1>Portfolio</h1>
-          <DefaultLink></DefaultLink>
+          <h1>Test</h1>
         </main>
       </v-col>
     </v-row>
@@ -14,7 +13,6 @@
 <script>
 export default {
   created: function () {
-    console.log(this);
   },
 };
 </script>

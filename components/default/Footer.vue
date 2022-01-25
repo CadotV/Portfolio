@@ -1,4 +1,5 @@
 <template>
+<v-container fluid>
   <v-footer dark padless>
     <v-card class="flex" flat tile>
       <v-card-title class="teal">
@@ -18,6 +19,7 @@
       </v-card-text>
     </v-card>
   </v-footer>
+</v-container>
 </template>
 
 

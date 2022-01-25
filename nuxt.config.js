@@ -4,7 +4,7 @@ export default {
    ** Doc: https://vue-meta.nuxtjs.org/api/#metainfo-properties
    */
   head: {
-    title: "Nuxt.js starter for CSB",
+    title: "Valentin Cadot",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
@@ -26,7 +26,7 @@ export default {
    */
   modules: [],
 
-  buildModules: ["@nuxtjs/tailwindcss", "@nuxtjs/vuetify"],
+  buildModules: ["@nuxtjs/tailwindcss"],
   tailwindcss: {
     jit: true,
     exposeConfig: true

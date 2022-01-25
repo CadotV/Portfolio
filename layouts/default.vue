@@ -1,7 +1,9 @@
 <template>
   <v-app>
-    <DefaultHeader />
-    <Nuxt />
-    <DefaultFooter />
+    <v-main>
+      <DefaultHeader />
+      <Nuxt />
+      <DefaultFooter />
+    </v-main>
   </v-app>
 </template>

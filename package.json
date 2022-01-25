@@ -13,9 +13,9 @@
   },
   "dependencies": {
     "@nuxtjs/tailwindcss": "4.2.1",
-    "@nuxtjs/vuetify": "^1.12.3",
     "nuxt": "^2.15.8",
     "postcss": "8.4.5"
   },
-  "keywords": []
+  "keywords": [],
+  "packageManager": "yarn@3.1.1"
 }
